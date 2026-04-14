@@ -1,0 +1,14 @@
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\bin\Debug\net8.0\ConsoleAppTopla.exe
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\bin\Debug\net8.0\ConsoleAppTopla.deps.json
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\bin\Debug\net8.0\ConsoleAppTopla.runtimeconfig.json
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\bin\Debug\net8.0\ConsoleAppTopla.dll
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\bin\Debug\net8.0\ConsoleAppTopla.pdb
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\ConsoleAppTopla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\ConsoleAppTopla.AssemblyInfoInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\ConsoleAppTopla.AssemblyInfo.cs
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\ConsoleAppTopla.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\ConsoleAppTopla.dll
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\refint\ConsoleAppTopla.dll
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\ConsoleAppTopla.pdb
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\ConsoleAppTopla.genruntimeconfig.cache
+C:\Users\Elvin\Documents\E\MyHub\ConsoleAppTopla\ConsoleAppTopla\obj\Debug\net8.0\ref\ConsoleAppTopla.dll
