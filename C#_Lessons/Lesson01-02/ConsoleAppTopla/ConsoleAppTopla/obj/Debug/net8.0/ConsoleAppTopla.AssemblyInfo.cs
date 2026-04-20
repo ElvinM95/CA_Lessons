@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppTopla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00ee786925c3e49187465edd04070f123dcb4551")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppTopla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppTopla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\ConsoleAppTopla\\ConsoleAppTopla\\ConsoleAppTopla.csproj",
+      "projectUniqueName": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\ConsoleAppTopla\\ConsoleAppTopla\\ConsoleAppTopla.csproj",
       "projectName": "ConsoleAppTopla",
-      "projectPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\ConsoleAppTopla\\ConsoleAppTopla\\ConsoleAppTopla.csproj",
+      "projectPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\ConsoleAppTopla\\ConsoleAppTopla\\ConsoleAppTopla.csproj",
       "packagesPath": "C:\\Users\\Elvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\ConsoleAppTopla\\ConsoleAppTopla\\obj\\",
+      "outputPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\ConsoleAppTopla\\ConsoleAppTopla\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
