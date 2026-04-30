@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\IntroTask01\\IntroTask01\\IntroTask01.csproj",
+      "projectUniqueName": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\IntroTask01\\IntroTask01\\IntroTask01.csproj",
       "projectName": "IntroTask01",
-      "projectPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\IntroTask01\\IntroTask01\\IntroTask01.csproj",
+      "projectPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\IntroTask01\\IntroTask01\\IntroTask01.csproj",
       "packagesPath": "C:\\Users\\Elvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\IntroTask01\\IntroTask01\\obj\\",
+      "outputPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\IntroTask01\\IntroTask01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

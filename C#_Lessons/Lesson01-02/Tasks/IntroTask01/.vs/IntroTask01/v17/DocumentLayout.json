@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\IntroTask01\\",
+  "WorkspaceRootPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\IntroTask01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55662E46-AB68-4AF2-9BD4-A8096F9D3093}|IntroTask01\\IntroTask01.csproj|c:\\users\\elvin\\documents\\e\\myhub\\introtask01\\introtask01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55662E46-AB68-4AF2-9BD4-A8096F9D3093}|IntroTask01\\IntroTask01.csproj|c:\\users\\elvin\\documents\\e\\myhub\\ca_lessons\\c#_lessons\\lesson01-02\\tasks\\introtask01\\introtask01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55662E46-AB68-4AF2-9BD4-A8096F9D3093}|IntroTask01\\IntroTask01.csproj|solutionrelative:introtask01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\IntroTask01\\IntroTask01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\IntroTask01\\IntroTask01\\Program.cs",
               "RelativeDocumentMoniker": "IntroTask01\\Program.cs",
-              "ToolTip": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\IntroTask01\\IntroTask01\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\IntroTask01\\IntroTask01\\Program.cs",
               "RelativeToolTip": "IntroTask01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBsBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:57:01.696Z",
+              "WhenOpened": "2026-04-29T07:26:06.742Z",
               "EditorCaption": ""
             }
           ]

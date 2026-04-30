@@ -104,6 +104,185 @@
             //}
 
             //Console.WriteLine("Cavab: " + sum);
+
+            /*--------------------Variant 4--------------------*/
+
+            //    Console.WriteLine("Eded daxil edin:");
+
+            //l1:
+            //    string input = Console.ReadLine();
+
+            //    if (!int.TryParse(input, out int number))
+            //    {
+            //        Console.WriteLine("Zehmet olmasa, eded daxil edin:");
+            //        goto l1;
+            //    }
+            //    int length = (int)Math.Log10(number) + 1;
+            //    int divisor = (int)Math.Pow(10, length - 1);
+
+            //    int position = 1;
+            //    int sum = 0;
+
+            //    while (divisor > 0)
+            //    {
+            //        int digit = number / divisor;
+            //        if (position % 2 == 0) // cüt yerlər
+            //        {
+            //            sum += digit * digit;
+            //        }
+            //        number %= divisor;
+            //        divisor /= 10;
+            //        position++;
+            //    }
+
+            //    Console.WriteLine("Cavab: " + sum);
+
+            /*--------------------Variant 5--------------------*/
+
+            //    Console.WriteLine("Eded daxil edin:");
+            //l1:
+            //    string input = Console.ReadLine();
+            //    int num = 0;
+            //    if (!int.TryParse(input, out num))
+            //    {
+            //        Console.WriteLine("Zehmet olmasa, duzgun eded daxil edin:");
+            //        goto l1;
+            //    }
+            //    int length = (int)Math.Log10(num) + 1;
+
+            //    int sum = 0;
+
+            //    for (int i = 0; i < length; i++)
+            //    {
+            //        if ((i+1) % 2 == 0)
+            //        {
+            //            int digit = (num / (int)Math.Pow(10, length - i - 1)) % 10;
+            //            int power = digit * digit;
+
+            //            sum += power;
+            //        }
+            //    }
+            //    Console.WriteLine("Cavab: " + sum);
+
+            /*--------------------Variant 6--------------------*/
+
+            //Console.WriteLine("Eded daxil edin: ");
+
+            //int number;
+            //while (!int.TryParse(Console.ReadLine(), out number))
+            //{
+            //    Console.WriteLine("Zehmet olmasa, duzgun eded daxil edin: ");
+            //}
+            //number = Math.Abs(number);
+            //int length = number == 0 ? 1 : (int)Math.Log10(number) + 1;
+            //int sum = 0;
+            //for (int i = 0; i < length; i++)
+            //{
+            //    if ((i + 1) % 2 == 0)
+            //    {
+            //        int digit = (number / (int)Math.Pow(10, length - i - 1)) % 10;
+            //        sum += (int)Math.Pow(digit, 2);
+            //    }
+            //}
+            //Console.WriteLine("Cavab: " + sum);
+
+            /*--------------------Variant 7--------------------*/
+
+            //Console.WriteLine("Eded daxil edin: ");
+
+            //int number;
+            //while (!int.TryParse(Console.ReadLine(), out number))
+            //{
+            //    Console.WriteLine("Zehmet olmasa, duzgun eded daxil edin: ");
+            //}
+
+            //number = Math.Abs(number);
+
+            //int position = 1;
+            //int sum = 0;
+
+            //while (number > 0)
+            //{
+            //    int digit = number % 10;
+
+            //    if (position % 2 == 0)
+            //    {
+            //        sum += digit * digit;
+            //    }
+
+            //    number /= 10;
+            //    position++;
+            //}
+
+            //Console.WriteLine("Cavab: " + sum);
+
+            #endregion
+
+            #region Task02
+            //2.Rəqəmlər və sıra nömrələri
+            //Daxil edilən ədədin rəqəmləri və onların
+            //sıra nömrələrinə olan hasilinin
+            //cəmini hesablayan proqram yazın
+            //Giriş:
+            //2345
+            //Çıxış: 40
+            //Izahi: 1 * 2 + 3 * 2 + 3 * 4 + 4 * 5 = 40
+
+            //Console.WriteLine("Eded daxil edin: ");
+
+            //int number;
+
+            //while (!int.TryParse(Console.ReadLine(), out number))
+            //{
+            //    Console.WriteLine("Zehmet olmasa, duzgun eded daxil edin: ");
+            //}
+
+            //number = Math.Abs(number);
+            //int length = number == 0 ? 1 : (int)Math.Log10(number) + 1;
+            //int sum = 0;
+
+            //for (int i = 0; i < length; i++)
+            //{
+            //    int digit = (number / (int)Math.Pow(10, length - i - 1)) % 10;
+            //    sum += (i + 1) * digit;
+            //}
+
+            //Console.WriteLine("Cavab: " + sum);
+            #endregion
+
+            #region Task03
+            //3.Rəqəmlərin yoxlanilması
+            //Verilmiş n ədədin rəqəmlərinin müxtəlif olduğunu yoxlayan proqram yazın
+            //Giris: 12546
+            //Cixis: Muxtelifreqemli
+
+            Console.WriteLine("Eded daxil edin: ");
+
+            int number;
+            while (!int.TryParse(Console.ReadLine(), out number))
+            {
+                Console.WriteLine("Zehmet olmasa, duzgun eded daxil edin: ");
+            }
+            
+            number = Math.Abs(number);
+
+            while (number > 0)
+            {
+                int digit = number % 10;
+                int temp = number / 10;
+                while(temp > 0)
+                {
+                    if (temp % 10 == digit)
+                    {
+                        Console.WriteLine("Muxtelifreqemli deyil");
+                        return;
+                    }
+                    temp /= 10;
+                }
+                number /= 10;
+            }
+            Console.WriteLine("Muxtelifreqemli");
+
             #endregion
         }
     }
