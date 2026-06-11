@@ -4,134 +4,146 @@
     {
         static void Main(string[] args)
         {
-        #region CutFor
-        //for (int i = 1; i < 10; i++)
-        //{
-        //    Console.WriteLine($">> {i}");
-        //    if (i % 2!=0)
-        //    {
-        //        continue;
-        //    }
+            #region CutFor
+            //for (int i = 1; i < 10; i++)
+            //{
+            //    Console.WriteLine($">> {i}");
+            //    if (i % 2!=0)
+            //    {
+            //        continue;
+            //    }
 
-        //    Console.WriteLine(i); 
-        //}
-        #endregion
+            //    Console.WriteLine(i); 
+            //}
+            #endregion
 
-        #region unsafe
-        //int a = 14;
+            #region unsafe
+            //int a = 14;
 
-        //unsafe
-        //{
-        //    int* addr = &a;
-        //    Console.WriteLine(a);
-        //    Console.WriteLine((IntPtr)addr);
-        //}
-        #endregion
+            //unsafe
+            //{
+            //    int* addr = &a;
+            //    Console.WriteLine(a);
+            //    Console.WriteLine((IntPtr)addr);
+            //}
 
-        #region bool
-        //bool adamSistemdedir = false; //1byte
+            //string name = "code";
 
-        //if (adamSistemdedir == true)
-        //{
-        //    Console.WriteLine("sidebar gorunur");
-        //}
-        //else
-        //{
-        //    Console.WriteLine("sidebar gorunmur");
-        //}
-        #endregion
+            //unsafe
+            //{
+            //    fixed(char* sAddr = name)
+            //    {
+            //        Console.WriteLine(name);
+            //        Console.WriteLine((IntPtr)sAddr);
+            //    }
+            //}
 
-        #region massiv
-        //int[] numbers = { 22, 13, 17, 30, 50 };
+            #endregion
 
-        //bool hamisiCutdur = true;
+            #region bool
+            //bool adamSistemdedir = false; //1byte
 
-        //for (int i = 0; i < numbers.Length; i++)
-        //{
-        //    if (numbers[i] % 2 != 0)
-        //    {
-        //        hamisiCutdur = false;
-        //        break;
-        //    }
-        //}
-        //Console.WriteLine(hamisiCutdur);
-        #endregion
+            //if (adamSistemdedir == true)
+            //{
+            //    Console.WriteLine("sidebar gorunur");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("sidebar gorunmur");
+            //}
+            #endregion
 
-        #region sizeof
-        //Console.WriteLine($"Size: {sizeof(byte)}");
-        //Console.WriteLine($"Min: {byte.MinValue}");
-        //Console.WriteLine($"Min: {byte.MaxValue}");
-        //Console.WriteLine(sizeof(byte));
+            #region massiv
+            //int[] numbers = { 22, 13, 17, 30, 50 };
 
-        //Console.WriteLine($"Size: {sizeof(int)}");
-        //Console.WriteLine($"Min: {int.MinValue}");
-        //Console.WriteLine($"Min: {int.MaxValue}");
-        //Console.WriteLine($"CTS Type Name: {typeof(int)}");
-        //Console.WriteLine($"Default: {default(int)}");
-        #endregion
+            //bool hamisiCutdur = true;
 
-        #region convert
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 != 0)
+            //    {
+            //        hamisiCutdur = false;
+            //        break;
+            //    }
+            //}
+            //Console.WriteLine(hamisiCutdur);
+            #endregion
 
-        //string strValue = Console.ReadLine();
+            #region sizeof
+            //Console.WriteLine($"Size: {sizeof(byte)}");
+            //Console.WriteLine($"Min: {byte.MinValue}");
+            //Console.WriteLine($"Min: {byte.MaxValue}");
+            //Console.WriteLine(sizeof(byte));
 
-        //int value = Convert.ToInt32(strValue);
+            //Console.WriteLine($"Size: {sizeof(int)}");
+            //Console.WriteLine($"Min: {int.MinValue}");
+            //Console.WriteLine($"Min: {int.MaxValue}");
+            //Console.WriteLine($"CTS Type Name: {typeof(int)}");
+            //Console.WriteLine($"Default: {default(int)}");
+            #endregion
 
-        //Console.WriteLine(value + 1);
+            #region convert
 
-        #endregion
+            //string strValue = Console.ReadLine();
 
-        #region convertTryParse
+            //int value = Convert.ToInt32(strValue);
 
-        //label1:
+            //Console.WriteLine(value + 1);
 
-        //    Console.Write("yashiniz: ");
+            #endregion
 
-        //    string strAge = Console.ReadLine();
+            #region convertTryParse
 
-        //    bool veziyyet = int.TryParse(strAge, out int age);
+            //label1:
 
-        //    if (veziyyet == false)
-        //    {
-        //        goto label1;
-        //    }
+            //    Console.Write("yashiniz: ");
 
-        //    if (age < 18)
-        //    {
-        //        Console.WriteLine("Yashiniz suruculuk vesiqesi ucun uygun deyil!");
-        //        Console.ReadKey();
-        //        goto label1;
-        //    }
+            //    string strAge = Console.ReadLine();
 
-        #endregion
+            //    bool veziyyet = int.TryParse(strAge, out int age);
 
-        #region goto
+            //    if (veziyyet == false)
+            //    {
+            //        goto label1;
+            //    }
 
-        //l1:
-        //    Console.Write("a: ");
+            //    if (age < 18)
+            //    {
+            //        Console.WriteLine("Yashiniz suruculuk vesiqesi ucun uygun deyil!");
+            //        Console.ReadKey();
+            //        goto label1;
+            //    }
 
-        //    string strA = Console.ReadLine();
+            #endregion
 
-        //    if (!int.TryParse(strA, out int a))
-        //    {
-        //        goto l1;
-        //    }
+            #region goto
 
-        //l2:
-        //    Console.Write("b: ");
+            //l1:
+            //    Console.Write("a: ");
 
-        //    string strB = Console.ReadLine();
+            //    string strA = Console.ReadLine();
 
-        //    if (!int.TryParse(strB, out int b))
-        //    {
-        //        goto l2;
-        //    }
+            //    if (!int.TryParse(strA, out int a))
+            //    {
+            //        goto l1;
+            //    }
 
-        //    int c = a + b;
+            //l2:
+            //    Console.Write("b: ");
 
-        //    Console.WriteLine(a + "+" + b + "=" + c);
-        //    Console.WriteLine("{0}+{1}={2}", a, b, c);
+            //    string strB = Console.ReadLine();
 
-        //    Console.WriteLine($"{a}+{b}={c}");
+            //    if (!int.TryParse(strB, out int b))
+            //    {
+            //        goto l2;
+            //    }
+
+            //    int c = a + b;
+
+            //    Console.WriteLine(a + "+" + b + "=" + c);
+            //    Console.WriteLine("{0}+{1}={2}", a, b, c);
+
+            //    Console.WriteLine($"{a}+{b}={c}");
 
             #endregion
         }
