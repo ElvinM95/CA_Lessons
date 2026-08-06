@@ -1,0 +1,14 @@
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\bin\Debug\net8.0\IntroTask02.exe
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\bin\Debug\net8.0\IntroTask02.deps.json
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\bin\Debug\net8.0\IntroTask02.runtimeconfig.json
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\bin\Debug\net8.0\IntroTask02.dll
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\bin\Debug\net8.0\IntroTask02.pdb
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\IntroTask02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\IntroTask02.AssemblyInfoInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\IntroTask02.AssemblyInfo.cs
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\IntroTask02.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\IntroTask02.dll
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\refint\IntroTask02.dll
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\IntroTask02.pdb
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\IntroTask02.genruntimeconfig.cache
+C:\Users\Elvin\Documents\E\MyHub\IntroTask02\IntroTask02\obj\Debug\net8.0\ref\IntroTask02.dll
