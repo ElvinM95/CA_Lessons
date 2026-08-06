@@ -256,32 +256,32 @@
             //Giris: 12546
             //Cixis: Muxtelifreqemli
 
-            Console.WriteLine("Eded daxil edin: ");
+            //Console.WriteLine("Eded daxil edin: ");
 
-            int number;
-            while (!int.TryParse(Console.ReadLine(), out number))
-            {
-                Console.WriteLine("Zehmet olmasa, duzgun eded daxil edin: ");
-            }
+            //int number;
+            //while (!int.TryParse(Console.ReadLine(), out number))
+            //{
+            //    Console.WriteLine("Zehmet olmasa, duzgun eded daxil edin: ");
+            //}
             
-            number = Math.Abs(number);
+            //number = Math.Abs(number);
 
-            while (number > 0)
-            {
-                int digit = number % 10;
-                int temp = number / 10;
-                while(temp > 0)
-                {
-                    if (temp % 10 == digit)
-                    {
-                        Console.WriteLine("Muxtelifreqemli deyil");
-                        return;
-                    }
-                    temp /= 10;
-                }
-                number /= 10;
-            }
-            Console.WriteLine("Muxtelifreqemli");
+            //while (number > 0)
+            //{
+            //    int digit = number % 10;
+            //    int temp = number / 10;
+            //    while(temp > 0)
+            //    {
+            //        if (temp % 10 == digit)
+            //        {
+            //            Console.WriteLine("Muxtelifreqemli deyil");
+            //            return;
+            //        }
+            //        temp /= 10;
+            //    }
+            //    number /= 10;
+            //}
+            //Console.WriteLine("Muxtelifreqemli");
 
             #endregion
         }
