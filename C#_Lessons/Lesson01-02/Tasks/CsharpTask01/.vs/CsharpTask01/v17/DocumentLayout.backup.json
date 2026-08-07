@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\CsharpTask01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDDDA9A-284E-429E-86C2-EE52370234E9}|CsharpTask01\\CsharpTask01.csproj|c:\\users\\elvin\\documents\\e\\myhub\\ca_lessons\\c#_lessons\\lesson01-02\\tasks\\csharptask01\\csharptask01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDDDA9A-284E-429E-86C2-EE52370234E9}|CsharpTask01\\CsharpTask01.csproj|solutionrelative:csharptask01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\CsharpTask01\\CsharpTask01\\Program.cs",
+              "RelativeDocumentMoniker": "CsharpTask01\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Documents\\E\\MyHub\\CA_Lessons\\C#_Lessons\\Lesson01-02\\Tasks\\CsharpTask01\\CsharpTask01\\Program.cs",
+              "RelativeToolTip": "CsharpTask01\\Program.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAwAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T05:29:05.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

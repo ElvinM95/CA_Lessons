@@ -1,0 +1,15 @@
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\bin\Debug\net8.0\CsharpTask01.exe
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\bin\Debug\net8.0\CsharpTask01.deps.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\bin\Debug\net8.0\CsharpTask01.runtimeconfig.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\bin\Debug\net8.0\CsharpTask01.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\bin\Debug\net8.0\CsharpTask01.pdb
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\CsharpTask01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\CsharpTask01.AssemblyInfoInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\CsharpTask01.AssemblyInfo.cs
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\CsharpTask01.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\CsharpTask01.sourcelink.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\CsharpTask01.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\refint\CsharpTask01.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\CsharpTask01.pdb
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\CsharpTask01.genruntimeconfig.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\C#_Lessons\Lesson01-02\Tasks\CsharpTask01\CsharpTask01\obj\Debug\net8.0\ref\CsharpTask01.dll
