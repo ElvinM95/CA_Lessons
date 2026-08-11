@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpTask01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85559baaa0f496aa927d22e8ab0161cf47d1f13d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7452b40e86cf6a6c1ac7d3d58730fca54fc858e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpTask01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpTask01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
