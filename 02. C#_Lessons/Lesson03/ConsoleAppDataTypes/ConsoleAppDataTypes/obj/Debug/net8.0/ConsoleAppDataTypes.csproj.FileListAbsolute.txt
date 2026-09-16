@@ -1,0 +1,15 @@
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\bin\Debug\net8.0\ConsoleAppDataTypes.exe
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\bin\Debug\net8.0\ConsoleAppDataTypes.deps.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\bin\Debug\net8.0\ConsoleAppDataTypes.runtimeconfig.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\bin\Debug\net8.0\ConsoleAppDataTypes.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\bin\Debug\net8.0\ConsoleAppDataTypes.pdb
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ConsoleAppDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ConsoleAppDataTypes.AssemblyInfoInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ConsoleAppDataTypes.AssemblyInfo.cs
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ConsoleAppDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ConsoleAppDataTypes.sourcelink.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ConsoleAppDataTypes.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\refint\ConsoleAppDataTypes.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ConsoleAppDataTypes.pdb
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ConsoleAppDataTypes.genruntimeconfig.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson03\ConsoleAppDataTypes\ConsoleAppDataTypes\obj\Debug\net8.0\ref\ConsoleAppDataTypes.dll
