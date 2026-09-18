@@ -60,7 +60,158 @@
 
             #endregion
 
+            #region Object Type 01
 
+            //int a = 10;
+
+            //object a1 = a; // Boxing
+
+            //int b = (int)a1; // Unboxing
+
+            //int c = (int)b; // casting
+
+            // Console.WriteLine(b + 1);
+
+            //var product1 = new
+            //{
+            //    weight = 200.0,
+            //    name = "SANA",
+            //    price = 6.99
+            //};
+
+            //object product2 = new
+            //{
+            //    weight = 500,
+            //    name = "SANA",
+            //    price = 12.99,
+            //    lastDate = DateTime.Now.AddDays(14)
+            //};
+
+            ///* Console.WriteLine(product1.price);
+            //   Console.WriteLine(product2); */
+
+            //PrintInfo(product1);
+            //Console.WriteLine("==========================");
+            //PrintInfo(product2);
+
+            #endregion
+
+            #region Object Type 02
+
+            //int a = 10;
+
+            //object a1 = a; // Boxing
+            //============================={
+            ////int? x = (int)a1;
+            ////int? x = a1 as int?;
+            //============================}
+
+            //if (a1 is int reqemInt)
+            //{
+            //    Console.WriteLine(reqemInt);
+            //}
+
+            //if (a1 is int)
+            //{
+            //    int i = (int)a1;
+            //    Console.WriteLine(i);
+            //}
+            //=======================================
+            //if (a1 is int) // pattern matching
+            //{
+            //    int i = (int)a1;
+            //    Console.WriteLine(i);
+            //}
+            //else if (a1 is double)
+            //{
+            //    double d = (double)a1;
+            //    Console.WriteLine(d);
+            //}
+
+            #endregion
+
+            #region Verilmish 4 reqqemli ededin reqemlerinin cemini tap
+
+        //    string income;
+        //    int eded;
+
+        //l1:
+        //    Console.Write("4 reqemli eded daxil edin: ");
+
+        //    income = Console.ReadLine();
+
+        //    if (!int.TryParse(income, out eded))
+        //    {
+        //        Console.WriteLine("eded daxil edilmeyib");
+        //        goto l1;
+        //    }
+
+        //    if (eded < 1000 || eded > 9999)
+        //    {
+        //        Console.WriteLine("4 reqemli eded daxil edilmeyib");
+        //        goto l1;
+        //    }
+
+        //    Console.WriteLine(eded);
+
+        //    int sum = 0;
+
+        //    while (eded > 0)
+        //    {
+        //        int qaliq = eded % 10;
+        //        sum += qaliq;
+        //        eded = eded / 10;
+        //    }
+
+        //    Console.WriteLine(sum);
+
+            #endregion
+
+            #region Reversing a 4-digit Number
+
+            string income;
+            int eded;
+            int qaliq;
+
+        l1:
+            Console.Write("4 reqemli eded daxil edin: ");
+
+            income = Console.ReadLine();
+
+            if (!int.TryParse(income, out eded))
+            {
+                Console.WriteLine("eded daxil edilmeyib");
+                goto l1;
+            }
+
+            if (eded < 1000 || eded > 9999)
+            {
+                Console.WriteLine("4 reqemli eded daxil edilmeyib");
+                goto l1;
+            }
+
+            Console.WriteLine(eded);
+
+            int newNumber = 0;
+            int temp = eded;
+            while (temp > 0)
+            {
+                qaliq = temp % 10;
+                newNumber = newNumber * 10 + qaliq;
+                temp /= 10;
+            }
+
+            Console.WriteLine($"Input: {eded}");
+            Console.WriteLine($"Output: {newNumber}");
+
+            #endregion
+        }
+
+        static void PrintInfo(dynamic product)
+        {
+            Console.WriteLine($"Adi: {product.name}");
+            Console.WriteLine($"Ceki: {product.weight}");
+            Console.WriteLine($"Qiymet: {product.price}");
         }
     }
 }
