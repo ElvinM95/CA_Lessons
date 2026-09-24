@@ -219,9 +219,63 @@
 
             #endregion
 
-            #region Task 09
+            #region Task 09.01
 
             /* 9 reqemli ededdin tek yerde dayananlardan bir eded duzlet: 132346389=12439 */
+
+            //int number;
+            //Console.Write("Enter a 9-digit number:");
+            //while (true)
+            //{
+            //    if (int.TryParse(Console.ReadLine(), out number) && number >= 100000000 && number <= 999999999)
+            //    {
+            //        break; // Valid 9-digit number, exit the loop
+            //    }
+            //    Console.Write("Invalid input. Please enter a valid 9-digit number:");
+            //}
+
+            //int mirrorNumber = 0;
+            //int zeroCount = 0;
+            //int temp = number;
+
+            //while (temp > 0)
+            //{
+            //    int digit = temp % 10;
+            //    if (mirrorNumber == 0 && digit == 0)
+            //    {
+            //        zeroCount++;
+            //    }
+            //    mirrorNumber = mirrorNumber * 10 + digit;
+            //    temp /= 10;
+            //}
+            //int count = 1;
+            //int result = 0;
+
+
+            //while (mirrorNumber > 0)
+            //{
+            //    int digit = mirrorNumber % 10;
+            //    if (count % 2 != 0) // Check if the digit is odd
+            //    {
+            //        result = result * 10 + digit;
+            //    }
+            //    mirrorNumber /= 10;
+            //    count++;
+            //}
+            //while (zeroCount > 0)
+            //{
+            //    if (count % 2 != 0)
+            //    {
+            //        result = result * 10 + 0;
+            //    }
+            //    count++;
+            //    zeroCount--;
+            //}
+            //Console.WriteLine("The new number is: " + result);
+
+            #endregion
+
+            #region Task 09.02
 
             int number;
             Console.Write("Enter a 9-digit number:");
@@ -234,26 +288,39 @@
                 Console.Write("Invalid input. Please enter a valid 9-digit number:");
             }
 
-            int temp = number;
             int result = 0;
-            int multiplier = 1; // To keep track of the position of the digit in the result
-            while (true)
-            {
+            int multiplier = 1;
 
-                int digit = number % 10;
-                if (digit % 2 == 1) // Check if the position is odd
+            // Ədəd 9 rəqəmli olduğu üçün sağdan sola doğru hərəkət edəndə 
+            // ən sağdakı rəqəm 9-cu mövqedədir. Buna görə 9-dan başlayırıq.
+            int position = 9;
+
+            while (number > 0)
+            {
+                int digit = number % 10; // Ən sağdakı rəqəmi alırıq
+
+                // Əgər mövqe tək rəqəmdirsə (9, 7, 5, 3, 1)
+                if (position % 2 != 0)
                 {
-                    result = digit * multiplier + result;
+                    result += digit * multiplier; // Yeni ədədə əlavə edirik
+                    multiplier *= 10;             // Növbəti mərtəbəyə keçirik (1, 10, 100...)
                 }
-                number /= 10;
-                multiplier *= 10;
-                if (number == 0)
-                {
-                    break; // Exit the loop when all digits are processed
-                }
+
+                number /= 10; // Yoxlanmış rəqəmi silib sola keçirik
+                position--;   // Mövqeni bir addım azaldırıq (sola doğru)
             }
 
-            Console.WriteLine("The new number is: " + result);
+            Console.WriteLine(result); // Nəticə: 12439
+
+            #endregion
+
+            #region Task 10
+
+            /* 9 reqemli ededdi tek yerde dayananlardan bir eded duzlet,
+                sonra cut yerde dayanlarinda bir eded duzlet,
+                sonra onlari topla */
+
+
 
             #endregion
         }
