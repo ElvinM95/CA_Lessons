@@ -1,0 +1,15 @@
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\bin\Debug\net8.0\C#Lesson04.exe
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\bin\Debug\net8.0\C#Lesson04.deps.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\bin\Debug\net8.0\C#Lesson04.runtimeconfig.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\bin\Debug\net8.0\C#Lesson04.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\bin\Debug\net8.0\C#Lesson04.pdb
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\C#Lesson04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\C#Lesson04.AssemblyInfoInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\C#Lesson04.AssemblyInfo.cs
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\C#Lesson04.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\C#Lesson04.sourcelink.json
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\C#Lesson04.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\refint\C#Lesson04.dll
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\C#Lesson04.pdb
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\C#Lesson04.genruntimeconfig.cache
+C:\Users\Elvin\Documents\E\MyHub\CA_Lessons\02. C#_Lessons\Lesson04\C#Lesson04\C#Lesson04\obj\Debug\net8.0\ref\C#Lesson04.dll
