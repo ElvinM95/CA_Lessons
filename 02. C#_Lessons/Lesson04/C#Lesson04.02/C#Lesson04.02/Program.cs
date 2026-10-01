@@ -1,4 +1,5 @@
-﻿using C_Lesson04._02.MyCodes;
+﻿using C_Lesson04._02.DataModels;
+using C_Lesson04._02.MyCodes;
 using System.Diagnostics;
 
 namespace C_Lesson04._02
@@ -156,19 +157,63 @@ namespace C_Lesson04._02
 
         #endregion
 
-        #region
+        #region Instance and Static Methods in Calculator Class 2
 
+        //static void Main(string[] args)
+        //{
+        //    int x = 10;
+        //    int y = 60;
+
+        //    Calculator c = new Calculator(); // sinifin instance yaratmaq lazımdır ki, non-static metodları çağıra bilək
+        //    int cavab = c.Topla(x, y);
+
+        //    Console.WriteLine(cavab);
+
+        //    Calculator.Ferq(x, y); // static metodları çağırmaq üçün sinifin instance yaratmağa ehtiyac yoxdur
+        //}
+        #endregion
+
+        #region Instance and Static Methods in Student Class
+        //static void Main(string[] args)
+        //{
+        //    Student stu1 = new Student();
+        //    Student.name = "Aqil";
+        //    stu1.surname = "Abbasov";
+        //    stu1.age = 26;
+
+        //    Student stu2 = new Student();
+        //    Student.name = "Orxan";
+        //    stu2.surname = "Aliyev";
+        //    stu2.age = 23;
+
+        //    //Console.WriteLine(stu2.surname);
+        //    //Console.WriteLine(stu2.age);
+
+        //    stu1.PrintInfo();
+        //    stu2.PrintInfo();
+
+        //}
+        #endregion
+        
+        #region Instance and Static Methods in Student Class 2
         static void Main(string[] args)
         {
-            int x = 10;
-            int y = 60;
+            Student stu1 = new Student();
+            stu1.name = "Aqil";
+            stu1.surname = "Abbasov";
+            stu1.age = 26;
 
-            Calculator c = new Calculator(); // sinifin instance yaratmaq lazımdır ki, non-static metodları çağıra bilək
-            int cavab = c.Topla(x, y);
+            Student stu2 = new Student();
+            stu2.name = "Orxan";
+            stu2.surname = "Aliyev";
+            stu2.age = 23;
 
-            Console.WriteLine(cavab);
+            //Console.WriteLine(stu2.surname);
+            //Console.WriteLine(stu2.age);
 
-            Calculator.Ferq(x, y); // static metodları çağırmaq üçün sinifin instance yaratmağa ehtiyac yoxdur
+            stu1.PrintInfo();
+            stu2.PrintInfo();
+
         }
         #endregion
     }
