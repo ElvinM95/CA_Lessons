@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppBookSystem
 {
-    internal class Book
+    internal class Book : Object // Inheritance - törəmə
     {
         /*
             PascalCase
@@ -21,7 +21,22 @@ namespace ConsoleAppBookSystem
 
         public void ShowInfo()
         {
-            Console.WriteLine($"{name} \n{authorName}\n {genre}\n {pageCount}\n {price} AZN");
+            Console.WriteLine($"Adi: {name} \n{authorName}\n {genre}\n {pageCount}\n {price}");
+        }
+
+        public override string ToString()
+        {
+            return $"Adi: {name} \n{authorName}\n {genre}\n {pageCount}\n {price}";
+        }
+    }
+
+    class AZN
+    {
+        public double Value;
+
+        public override string ToString()
+        {
+            return $"{Value}₼";
         }
     }
 }
